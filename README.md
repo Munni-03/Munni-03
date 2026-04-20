@@ -58,4 +58,5 @@ I specialize in building intelligent systems that help organizations make inform
 ---
 
 ### 📬 Connect with me:
-  [LinkedIn](https://www.linkedin.com/in/munni-rahman-ba9740347?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [Email](munnirahmanidc@gmail.com) 
+ - [LinkedIn](https://www.linkedin.com/in/munni-rahman-ba9740347)
+- [Email](mailto:munnirahmanidc@gmail.com)
