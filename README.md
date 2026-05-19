@@ -49,6 +49,7 @@ I specialize in building intelligent systems that help organizations make inform
 ---
 
 ### 📜 Certifications 
+* **Google AI Essentials** — Google (Coursera Specialization covering prompting, productivity, and responsible AI)
 * **Generative AI & LLMs** — Google Cloud (Introduction to Generative AI & Large Language Models)
 * **Enterprise Design Thinking Practitioner** — IBM 
 * **Machine Learning Foundations** — AWS (Amazon Web Services)
